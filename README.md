@@ -37,19 +37,19 @@ To login, I am going to provide the user-email ids and password below.
 
 email : admin@example.com
 
-password : codeinsect
+password : e-Healthcare
 
 **Manager Account :**
 
 email :  manager@example.com
 
-password : codeinsect
+password : e-Healthcare
 
 **Employee Account :**
 
 email : employee@example.com
 
-password : codeinsect
+password : e-Healthcare
 
 Once you logged in with System Administrator account, you can create user or edit previous user if you want.
 
